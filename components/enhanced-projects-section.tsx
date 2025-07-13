@@ -64,7 +64,7 @@ export function EnhancedProjectsSection() {
     {
       title: "Portfolio Website",
       description: "Responsive personal portfolio showcasing projects, skills, and achievements with modern design",
-      image: "/placeholder.svg?height=300&width=500",
+      image: "/images/portfolio.png",
       tags: ["HTML", "CSS", "Bootstrap", "JavaScript"],
       liveDemo: "https://portfolio-63b9.onrender.com",
       github: "https://github.com/SoundariyaMathavan/portfolio.git",
